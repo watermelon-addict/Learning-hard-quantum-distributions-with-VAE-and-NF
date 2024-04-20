@@ -26,10 +26,10 @@ qubits = sorted([
     cirq.GridQubit(4, 4),
     cirq.GridQubit(4, 5),
     cirq.GridQubit(4, 6),
-    cirq.GridQubit(5, 3),
-    cirq.GridQubit(5, 4),
-    cirq.GridQubit(5, 5),
-    cirq.GridQubit(5, 6),
+    # cirq.GridQubit(5, 3),
+    # cirq.GridQubit(5, 4),
+    # cirq.GridQubit(5, 5),
+    # cirq.GridQubit(5, 6),
 ])
 
 wires = len(qubits)

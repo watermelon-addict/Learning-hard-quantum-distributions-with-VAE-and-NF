@@ -69,7 +69,7 @@ def Num2BinStr( num, N ):
 
 # Which distribution do we train VAE?
 distr = "Quantum_F_U" # options are "Quantum_F_U", or "Quantum_qsim"
-distr = "Quantum_qsim"
+# distr = "Quantum_qsim"
 
 np.random.seed(123456789)
 tf.random.set_seed(123456789)

@@ -59,11 +59,11 @@ from scipy.stats import wasserstein_distance, kstest
 
 # Which distribution do we train VAE?
 distr = "Quantum_F_U" # options are "Gaussian", "Poisson", "Quantum_F_U", or "Quantum_qsim"
-distr = "Quantum_qsim"
-distr = "Gaussian"
-distr = "Poisson"
+# distr = "Quantum_qsim"
+# distr = "Gaussian"
+# distr = "Poisson"
 
-N = 3 # number of qubits in quantum distribution
+N = 8 # number of qubits in quantum distribution
 # Fefferman & Umans quantum data we use 3 or 8 qubits
 # QSIM data we use 8 or 12 qubits
 

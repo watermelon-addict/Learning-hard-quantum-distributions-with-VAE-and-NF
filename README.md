@@ -52,7 +52,10 @@ The outputs from above scripts are used reference [1].
 This project is inspired by the previous work by A. Rocchetto, E. Grant, S. Strelchuk, G. Carleo and S. Severini [4].
 
 [1] E. Wang and S. Strelchuk, "Learning hard quantum distributions with generative neural networks," 2024
+
 [2] B. Fefferman and C. Chris Umans, "The Power of Quantum Fourier Sampling," arXiv:1507.05592, 2015. 
+
 [3] F. Arute, K. Arya, R. Babbush and e. al., "Quantum supremacy using a programmable superconducting processo," Nature, vol. 574, pp. 505-510, 2019. 
+
 [4] A. Rocchetto, E. Grant, S. Strelchuk, G. Carleo and S. Severini, "Learning hard quantum distributions with variational," Nature, NPJ Quantum Information, vol. 4, no. 28, 2018. 
 
